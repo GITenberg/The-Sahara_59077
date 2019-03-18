@@ -1,0 +1,32 @@
+_repo: The-Sahara_59077
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Laurie, Marjorie
+    alias: Thirkell, Marjorie
+    gutenberg_agent_id: '37536'
+    url: http://www.gutenberg.org/2009/agents/37536
+creator:
+  author:
+    agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Julien
+    - Viaud, Louis Marie Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
+description: ''
+gutenberg_issued: '2019-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Sahara
+url: http://www.gutenberg.org/ebooks/59077
